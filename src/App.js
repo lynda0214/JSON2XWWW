@@ -29,7 +29,6 @@ class App extends Component {
             setTimeout(() => {
                 this.refs.jsonTextArea.editor.getSession().setValue('');
                 this.refs.jsonTextArea.editor.getSession().setTabSize(2);
-                this.refs.jsonTextArea.editor.getSession().setUseWrapMode(true);
                 this.refs.jsonTextArea.editor.getSession().setValue(JSON.stringify(obj, null, 2))
             }, 0);
         }
