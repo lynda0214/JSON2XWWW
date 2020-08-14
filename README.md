@@ -1,4 +1,9 @@
+### Purpose
+
+For easily converting JSON to x-www-form-urlencoded format.
+
 ### Demo Page
+
 [Demo](https://lynda0214.github.io/json2xwww)
 
 ### Usage
