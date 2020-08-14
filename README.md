@@ -25,3 +25,19 @@ React.js
 
 - [react-ace](https://github.com/securingsincity/react-ace)
 - [react-clipboard](https://github.com/nihey/react-clipboard.js/)
+
+### Reminds
+
+- Run on localhost
+
+```
+npm install
+npm start
+```
+
+- Run on gh-pages
+
+```
+npm run build
+npm run deploy
+```
